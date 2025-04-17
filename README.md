@@ -14,7 +14,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4. 
 
 ## Program:
-![image](https://github.com/user-attachments/assets/d6e2e354-bd88-4753-b6f1-93b6465bf893)
+![image](https://github.com/user-attachments/assets/958a797b-f020-457a-9adf-5f06f2458756)
+
 
 ![image](https://github.com/user-attachments/assets/f0e25aa4-c4f7-4c9d-adc6-ac4ad8eaba53)
 
