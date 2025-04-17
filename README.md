@@ -14,9 +14,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4. 
 
 ## Program:
-import pandas as pd
-data=pd.read_csv("Employee.csv")
-data
+![image](https://github.com/user-attachments/assets/d6e2e354-bd88-4753-b6f1-93b6465bf893)
+
 ![image](https://github.com/user-attachments/assets/f0e25aa4-c4f7-4c9d-adc6-ac4ad8eaba53)
 
 
